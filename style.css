@@ -1,0 +1,25 @@
+.hi{
+    background-color: lightgray;
+    border-radius: 50px ;
+    width: 200px;
+    padding: 10px;
+  }
+  
+  .hello{
+    border : 5px dotted black;
+    height: 250;
+    width: 250;
+  }
+  
+  #header{
+    background-color: white ;
+    color: black;
+    border-radius: 50px;
+    font-size: 30;
+    font-weight: bold;
+    padding:10px;
+  }
+
+  body{
+      background-color: gray;
+  }
